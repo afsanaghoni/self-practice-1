@@ -33,9 +33,26 @@ margin-bottom: 30px;
 }
 .welcome-pic img{
     width: 80%;
+    padding-top: 50px;
 
 }
 .bg{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.drm-bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#bd-para{
+    padding-right:60px;
+}
+.bg-ex{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.box{
+    background-color: gray;
+    width: 70%;
 }
