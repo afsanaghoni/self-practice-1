@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.welcome-text{
+    padding: 0 60px ;
+    
+}
+.welcome-text p{
+color: gray;
+text-align: justify;
+margin-bottom: 30px;
+}
+.btn{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(to right, red,orangered);
+    color: white;
+    font-weight: bold;
+    border-radius: 2px;
+}
+.orange{
+    color: orangered;
+}
+.width-half{
+    width: 50%;
+}
+.flex{
+    display: flex;
+}
+.welcome-pic img{
+    width: 80%;
+
+}
+.bg{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
